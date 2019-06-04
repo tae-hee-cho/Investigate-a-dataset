@@ -48,6 +48,7 @@ Use the [Project Rubric](https://review.udacity.com/#!/rubrics/107/view) to revi
 
 
 Supporting Materials:
+
 [Investigate-A-Dataset-Template.Ipynb](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5ac7a08a_investigate-a-dataset-template.ipynb/investigate-a-dataset-template.ipynb.zip)
 
 [Data Set Options](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf)
